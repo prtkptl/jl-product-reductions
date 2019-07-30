@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "productId": "123456",
+      "title": "product with no price",
+      "price": {
+        "was": "",
+        "then1": "65",
+        "then2": "60",
+        "now": "59.00"
+      },
+      "colorSwatches": []
+    }
+  ]
+}

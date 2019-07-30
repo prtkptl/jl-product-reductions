@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "productId": "1",
+      "title": "product 1",
+      "price": {
+        "was": "15",
+        "then1": "",
+        "then2": "",
+        "now": "7.50"
+      },
+      "colorSwatches": []
+    },
+    {
+      "productId": "2",
+      "title": "product 2",
+      "price": {
+        "was": "35",
+        "then1": "",
+        "then2": "",
+        "now": "10"
+      },
+      "colorSwatches": []
+    },
+    {
+      "productId": "3",
+      "title": "product 3",
+      "price": {
+        "was": "65",
+        "then1": "",
+        "then2": "",
+        "now": "55"
+      },
+      "colorSwatches": []
+    }
+  ]
+}
